@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "iosv5",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/CommandersAct/iOSV5",
+      "state" : {
+        "revision" : "a92022d04e838f8db41dd2088169d2102bcc5cc0",
+        "version" : "5.2.2"
+      }
+    },
+    {
+      "identity" : "lottie-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/airbnb/lottie-ios",
+      "state" : {
+        "revision" : "4a6058cbbdfe4f74aeae92c8bd51ad3b0de2a1ee",
+        "version" : "3.3.0"
+      }
+    }
+  ],
+  "version" : 2
+}

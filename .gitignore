@@ -1,2 +1,16 @@
 .DS_Store
 .DS_Store
+
+iOS/ConsentOnly/DerivedData
+iOS/ServerSide_And_Consent/DerivedData
+iOS/ServerSideOnly/DerivedData
+
+iOS/ConsentOnly/TCDemo.xcodeproj/project.xcworkspace/xcuserdata/
+iOS/ConsentOnly/TCDemo.xcodeproj/xcuserdata/
+
+iOS/ServerSideOnly/TCDemo.xcodeproj/project.xcworkspace/xcuserdata/
+iOS/ServerSideOnly/TCDemo.xcodeproj/xcuserdata/
+
+iOS/ServerSide_And_Consent/TCDemo.xcodeproj/project.xcworkspace/xcuserdata/
+iOS/ServerSide_And_Consent/TCDemo.xcodeproj/xcuserdata/
+
