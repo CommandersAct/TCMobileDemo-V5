@@ -14,11 +14,13 @@ You should be able to see events hits on the application logs once you launch it
 
 If you want to see your hits on the CommandersAct plateform, you should set a valid siteID & sourceKey in the app.
 
-# **Builds Download**
+# **Builds Download & installation :**
 
-- [iOS ipa file](https://raw.githubusercontent.com/CommandersAct/TCMobileDemo-V5/master/TCDemo_ServerSide_And_Consent.ipa), installable directly into Mac OS. 
+- [iOS ipa file](https://raw.githubusercontent.com/CommandersAct/TCMobileDemo-V5/master/TCDemo_ServerSide_And_Consent.ipa), installable directly into Mac OS, iOS Simulator (BrowserStack) or into iOS devices via AirDrop.
+  - For macOS make sure to give permission to app in MacOS System Settings ... -> Privacy & Sécurity -> Security section
 
-- [Android APK file](https://raw.githubusercontent.com/CommandersAct/TCMobileDemo-V5/master/TCDemo_ServerSide_And_Consent.apk), can be installed into windows OS with android-sub-system for Windows. 
+- [Android APK file](https://raw.githubusercontent.com/CommandersAct/TCMobileDemo-V5/master/TCDemo_ServerSide_And_Consent.apk), can be installed into Android Device or Simulator (BrowserStack) or with android-sub-system for Windows.
+  - [Youtube tutorial for running APK on windows](https://youtu.be/D_AiqB-eVig).
 
 # **Support and contacts :**
 
