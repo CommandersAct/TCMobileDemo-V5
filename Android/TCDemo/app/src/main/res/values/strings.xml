@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TCDemo</string>
+    <string name="welcome_to_app_text">Welcome to TCDemo Store</string>
+</resources>

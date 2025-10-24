@@ -1,31 +1,35 @@
-![CommandersAct Logo](assets/ca_logo.png)
+![CommandersAct Logo](res/ca_logo.png)
 
 # **TCMobileDemo-V5**
 
-This repository show examples for different use-cases of CommandersAct's Android & iOS SDKs.
+This repository provides example implementations for various **CommandersAct SDK** use cases on both **Android** and **iOS** platforms.
 
-full documentation can be accessed here :
+---
 
-- [Android](https://github.com/CommandersAct/AndroidV5)
+## 📱 Example Apps
 
-- [iOS](https://github.com/CommandersAct/iOSV5)
+Refer to the folder matching your desired platform for documentation and demo applications:
 
-You should be able to see events hits on the application logs once you launch it, if you are on a version that uses TCConsent, please accept Consent first.
+- [**Android**](./Android)  
+- [**iOS**](./iOS)
 
-If you want to see your hits on the CommandersAct plateform, you should set a valid siteID & sourceKey in the app.
+---
 
-# **Builds Download & installation :**
+## 📘 Official SDK Documentation
 
-- [iOS ipa file](https://raw.githubusercontent.com/CommandersAct/TCMobileDemo-V5/master/TCDemo_ServerSide_And_Consent.ipa), installable directly into Mac OS, iOS Simulator (BrowserStack) or into iOS devices via AirDrop.
-  - For macOS make sure to give permission to app in MacOS System Settings ... -> Privacy & Sécurity -> Security section
+For full integration guides, configuration options, and API details, please visit the SDK repositories:
 
-- [Android APK file](https://raw.githubusercontent.com/CommandersAct/TCMobileDemo-V5/master/TCDemo_ServerSide_And_Consent.apk), can be installed into Android Device or Simulator (BrowserStack) or with android-sub-system for Windows.
-  - [Youtube tutorial for running APK on windows](https://youtu.be/D_AiqB-eVig).
+- [**CommandersAct Android SDK**](https://github.com/CommandersAct/AndroidV5)  
+- [**CommandersAct iOS SDK**](https://github.com/CommandersAct/iOSV5)
 
-# **Support and contacts :**
+---
 
-Support : support@commandersact.com
+## 💬 Support & Contact
 
-http://www.commandersact.com
+**Support:** [support@commandersact.com](mailto:support@commandersact.com)  
+**Website:** [https://www.commandersact.com](https://www.commandersact.com)
 
-Commanders Act | 7b rue taylor - 75010 PARIS - France
+---
+
+**Commanders Act**  
+7b Rue Taylor, 75010 Paris, France

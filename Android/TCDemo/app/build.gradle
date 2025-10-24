@@ -1,0 +1,137 @@
+plugins {
+    id 'com.android.application'
+    id 'org.jetbrains.kotlin.android'
+}
+
+android {
+    compileSdk 34
+
+    defaultConfig {
+        applicationId "com.tagcommander.tcdemo.tcdemo"
+        minSdk 25
+        targetSdk 34
+        versionCode 415
+        versionName "4.3.0"
+        multiDexEnabled true
+        namespace = "com.tagcommander.tcdemo"
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+        vectorDrawables {
+            useSupportLibrary true
+        }
+    }
+
+    buildTypes {
+        debug {
+        }
+    }
+
+    variantFilter { variant ->
+        if (variant.buildType.name == 'release') {
+            setIgnore(true)
+        }
+    }
+
+    androidComponents {
+        beforeVariants(selector().withBuildType("release")) { variantBuilder ->
+                variantBuilder.enable = false
+        }
+    }
+
+    flavorDimensions = ["Usage"]
+
+    productFlavors {
+
+        NoIAB {
+            resValue "string", "app_name", "TCDemo NoIAB"
+        }
+
+        IAB {
+            resValue "string", "app_name", "TCDemo IAB"
+        }
+
+        IAB_Firebase {
+            resValue "string", "app_name", "TCDemo IAB Firebase"
+        }
+
+        ServerSide_Only {
+            resValue "string", "app_name", "TCDemo ServerSide Only"
+        }
+
+        Consent_Only {
+            resValue "string", "app_name", "TCDemo Consent Only"
+        }
+
+       // Visualizer {}
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+    kotlinOptions {
+        jvmTarget = '17'
+    }
+    buildFeatures {
+        compose true
+        buildConfig = true
+    }
+    composeOptions {
+        kotlinCompilerExtensionVersion compose_version
+    }
+    packagingOptions {
+        resources {
+            excludes += '/META-INF/{AL2.0,LGPL2.1}'
+        }
+    }
+}
+
+dependencies {
+    //Commanders Act SDK dependencies
+    implementation 'com.tagcommander.lib:core:5.4.8'
+
+    NoIABImplementation 'com.tagcommander.lib:ServerSide:5.5.8'
+    NoIABImplementation 'com.tagcommander.lib:Consent:5.3.10'
+
+    IABImplementation 'com.tagcommander.lib:ServerSide:5.5.8'
+    IABImplementation 'com.tagcommander.lib:Consent:5.3.10'
+    IABImplementation 'com.tagcommander.lib:TCIAB:5.1.0'
+
+    IAB_FirebaseImplementation  'com.tagcommander.lib:ServerSide:5.5.8'
+    IAB_FirebaseImplementation  'com.tagcommander.lib:Consent:5.3.10'
+    IAB_FirebaseImplementation  'com.tagcommander.lib:TCIAB:5.1.0'
+    IAB_FirebaseImplementation  'com.tagcommander.lib:FirebaseDestination:5.1.2'
+
+    Consent_OnlyImplementation 'com.tagcommander.lib:Consent:5.3.10'
+    Consent_OnlyImplementation 'com.tagcommander.lib:TCIAB:5.1.0'
+
+    ServerSide_OnlyImplementation'com.tagcommander.lib:ServerSide:5.5.8'
+
+    // necessary dependencies
+    implementation 'androidx.constraintlayout:constraintlayout:2.2.1'
+
+    //TCDemo dependencies
+    implementation 'androidx.core:core-ktx:1.8.0'
+    implementation "androidx.compose.ui:ui:$compose_version"
+    implementation "androidx.compose.material:material:$compose_version"
+    implementation "androidx.compose.ui:ui-tooling-preview:$compose_version"
+    implementation 'androidx.lifecycle:lifecycle-runtime-ktx:2.5.1'
+    implementation("androidx.multidex:multidex:2.0.1")
+
+    implementation 'androidx.activity:activity-compose:1.5.1'
+    implementation "androidx.navigation:navigation-compose:2.5.1"
+    implementation "com.airbnb.android:lottie-compose:$lottieVersion"
+    implementation 'com.squareup.moshi:moshi-kotlin:1.12.0'
+    implementation 'androidx.navigation:navigation-runtime-ktx:2.5.1'
+    implementation 'com.google.code.gson:gson:2.9.1'
+    implementation 'com.fasterxml.jackson.module:jackson-module-kotlin:2.13.3'
+    implementation 'androidx.lifecycle:lifecycle-extensions:2.2.0'
+    implementation "android.arch.lifecycle:common-java8:1.1.1"
+
+    testImplementation 'junit:junit:4.13.2'
+    androidTestImplementation 'androidx.test.ext:junit:1.3.0'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.7.0'
+    androidTestImplementation "androidx.compose.ui:ui-test-junit4:$compose_version"
+    debugImplementation "androidx.compose.ui:ui-tooling:$compose_version"
+    debugImplementation "androidx.compose.ui:ui-test-manifest:$compose_version"
+}

@@ -1,0 +1,2654 @@
+{
+  "version": 1761196071,
+  "last_updated": "2025-10-23",
+  "providers": [
+    {
+      "name": "Amazon",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 793
+        },
+        {
+          "framework": "Google AC",
+          "id": 7
+        }
+      ],
+      "policy_url": "https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=201909010"
+    },
+    {
+      "name": "Acuityads",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 231
+        },
+        {
+          "framework": "Google AC",
+          "id": 11
+        }
+      ],
+      "policy_url": "https://www.acuityads.com/privacy-policy/"
+    },
+    {
+      "name": "LiveRamp",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 97
+        },
+        {
+          "framework": "Google AC",
+          "id": 12
+        }
+      ],
+      "policy_url": "https://liveramp.com/service-privacy-policy/"
+    },
+    {
+      "name": "Adara Media",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 57
+        },
+        {
+          "framework": "Google AC",
+          "id": 15
+        }
+      ],
+      "policy_url": "https://adara.com/2018/04/10/adara-gdpr-faq/"
+    },
+    {
+      "name": "Adform",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 50
+        },
+        {
+          "framework": "Google AC",
+          "id": 22
+        }
+      ],
+      "policy_url": "https://site.adform.com/uncategorized/product-and-services-privacy-policy/"
+    },
+    {
+      "name": "Adloox",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 93
+        },
+        {
+          "framework": "Google AC",
+          "id": 35
+        }
+      ],
+      "policy_url": "http://adloox.com/disclaimer"
+    },
+    {
+      "name": "Integral Ad Science",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 278
+        },
+        {
+          "framework": "Google AC",
+          "id": 48
+        }
+      ],
+      "policy_url": "http://www.integralads.com/privacy-policy"
+    },
+    {
+      "name": "Artsai",
+      "ids": [
+        {
+          "framework": "Google AC",
+          "id": 61
+        }
+      ],
+      "policy_url": "https://artsai.com/privacy/"
+    },
+    {
+      "name": "comScore",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 77
+        },
+        {
+          "framework": "Google AC",
+          "id": 62
+        }
+      ],
+      "policy_url": "https://www.comscore.com/About-comScore/Privacy-Policy"
+    },
+    {
+      "name": "AppNexus (Xandr) Inc",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 32
+        },
+        {
+          "framework": "Google AC",
+          "id": 80
+        }
+      ],
+      "policy_url": "https://www.microsoft.com/en-us/privacy/privacystatement"
+    },
+    {
+      "name": "Meta",
+      "ids": [
+        {
+          "framework": "Google AC",
+          "id": 89
+        }
+      ],
+      "policy_url": "https://www.facebook.com/about/privacy/update"
+    },
+    {
+      "name": "C3 Metrics",
+      "ids": [
+        {
+          "framework": "Google AC",
+          "id": 122
+        }
+      ],
+      "policy_url": "https://www.c3metrics.com/privacy-policy"
+    },
+    {
+      "name": "Index Exchange",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 10
+        },
+        {
+          "framework": "Google AC",
+          "id": 126
+        }
+      ],
+      "policy_url": "http://www.indexexchange.com/privacy/"
+    },
+    {
+      "name": "Crimtan",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 85
+        },
+        {
+          "framework": "Google AC",
+          "id": 153
+        }
+      ],
+      "policy_url": "https://crimtan.com/privacy-ctl/"
+    },
+    {
+      "name": "Criteo",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 91
+        },
+        {
+          "framework": "Google AC",
+          "id": 154
+        }
+      ],
+      "policy_url": "https://www.criteo.com/privacy"
+    },
+    {
+      "name": "Roku Advertising Services",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 71
+        },
+        {
+          "framework": "Google AC",
+          "id": 161
+        }
+      ],
+      "policy_url": "https://docs.roku.com/published/userprivacypolicy/en/gb"
+    },
+    {
+      "name": "PulsePoint",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 81
+        },
+        {
+          "framework": "Google AC",
+          "id": 162
+        }
+      ],
+      "policy_url": "https://www.pulsepoint.com/legal/gdpr"
+    },
+    {
+      "name": "Improve Digital",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 209
+        },
+        {
+          "framework": "IAB GVL",
+          "id": 253
+        },
+        {
+          "framework": "Google AC",
+          "id": 165
+        }
+      ],
+      "policy_url": "https://improvedigital.com/platform-privacy-policy"
+    },
+    {
+      "name": "DoubleVerify",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 126
+        },
+        {
+          "framework": "Google AC",
+          "id": 178
+        }
+      ],
+      "policy_url": "https://www.doubleverify.com/privacy/"
+    },
+    {
+      "name": "eBay",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 929
+        },
+        {
+          "framework": "Google AC",
+          "id": 184
+        }
+      ],
+      "policy_url": "https://www.ebay.com/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy?id=4260#section12"
+    },
+    {
+      "name": "Eulerian Technologies",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 413
+        },
+        {
+          "framework": "Google AC",
+          "id": 195
+        }
+      ],
+      "policy_url": "https://www.eulerian.com/en/privacy/"
+    },
+    {
+      "name": "Evidon",
+      "ids": [
+        {
+          "framework": "Google AC",
+          "id": 196
+        }
+      ],
+      "policy_url": "https://www.crownpeak.com/privacy"
+    },
+    {
+      "name": "Flashtalking by Mediaocean",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 78
+        },
+        {
+          "framework": "Google AC",
+          "id": 209
+        }
+      ],
+      "policy_url": "https://www.flashtalking.com/privacypolicy"
+    },
+    {
+      "name": "Gemius",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 328
+        },
+        {
+          "framework": "Google AC",
+          "id": 221
+        }
+      ],
+      "policy_url": "https://gemius.com/privacy-policy/cookie-policy/"
+    },
+    {
+      "name": "Google",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 755
+        },
+        {
+          "framework": "Google AC",
+          "id": 229
+        }
+      ],
+      "policy_url": "https://www.google.com/policies/technologies/partner-sites/"
+    },
+    {
+      "name": "GroovinAds",
+      "ids": [
+        {
+          "framework": "Google AC",
+          "id": 230
+        }
+      ],
+      "policy_url": "https://www.groovinads.com/privacy"
+    },
+    {
+      "name": "IPONWEB",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 128
+        },
+        {
+          "framework": "IAB GVL",
+          "id": 129
+        },
+        {
+          "framework": "IAB GVL",
+          "id": 686
+        },
+        {
+          "framework": "Google AC",
+          "id": 271
+        }
+      ],
+      "policy_url": "http://www.bidswitch.com/privacy-policy/"
+    },
+    {
+      "name": "Jivox",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 294
+        },
+        {
+          "framework": "Google AC",
+          "id": 274
+        }
+      ],
+      "policy_url": "http://www.jivox.com/privacy/"
+    },
+    {
+      "name": "Sizmek",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 68
+        },
+        {
+          "framework": "Google AC",
+          "id": 314
+        }
+      ],
+      "policy_url": "https://www.sizmek.com/privacy-policy/"
+    },
+    {
+      "name": "Epsilon",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 24
+        },
+        {
+          "framework": "Google AC",
+          "id": 316
+        }
+      ],
+      "policy_url": "https://legal.epsilon.com/eu/privacy-policy-services"
+    },
+    {
+      "name": "Microsoft",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 1126
+        },
+        {
+          "framework": "Google AC",
+          "id": 326
+        }
+      ],
+      "policy_url": "https://privacy.microsoft.com/en-us/privacystatement"
+    },
+    {
+      "name": "Neodata Group",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 450
+        },
+        {
+          "framework": "Google AC",
+          "id": 336
+        }
+      ],
+      "policy_url": "https://www.neodatagroup.com/en/security-policy"
+    },
+    {
+      "name": "Relay42",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 631
+        },
+        {
+          "framework": "Google AC",
+          "id": 340
+        }
+      ],
+      "policy_url": "https://relay42.com/privacy"
+    },
+    {
+      "name": "Nielsen",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 373
+        },
+        {
+          "framework": "Google AC",
+          "id": 348
+        }
+      ],
+      "policy_url": "https://www.nielsen.com/us/en/legal/privacy-statement/digital-measurement/"
+    },
+    {
+      "name": "GfK",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 758
+        },
+        {
+          "framework": "Google AC",
+          "id": 350
+        }
+      ],
+      "policy_url": "https://sensic.net/"
+    },
+    {
+      "name": "Adobe Advertising Cloud",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 264
+        },
+        {
+          "framework": "IAB GVL",
+          "id": 565
+        },
+        {
+          "framework": "Google AC",
+          "id": 359
+        }
+      ],
+      "policy_url": "https://www.adobe.com/privacy/general-data-protection-regulation.html"
+    },
+    {
+      "name": "OpenX Technologies",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 69
+        },
+        {
+          "framework": "Google AC",
+          "id": 363
+        }
+      ],
+      "policy_url": "https://www.openx.com/legal/privacy-policy/"
+    },
+    {
+      "name": "Quantcast",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 11
+        },
+        {
+          "framework": "Google AC",
+          "id": 398
+        }
+      ],
+      "policy_url": "https://www.quantcast.com/privacy/"
+    },
+    {
+      "name": "Dynata",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 110
+        },
+        {
+          "framework": "Google AC",
+          "id": 414
+        }
+      ],
+      "policy_url": "https://www.opinionoutpost.co.uk/en-gb/policies/privacy"
+    },
+    {
+      "name": "NextRoll, Inc.",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 130
+        },
+        {
+          "framework": "Google AC",
+          "id": 432
+        }
+      ],
+      "policy_url": "https://www.nextroll.com/privacy"
+    },
+    {
+      "name": "Simpli.fi",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 73
+        },
+        {
+          "framework": "Google AC",
+          "id": 438
+        }
+      ],
+      "policy_url": "https://simpli.fi/simpli-fi-services-privacy-policy/"
+    },
+    {
+      "name": "Basis Technologies",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 156
+        },
+        {
+          "framework": "Google AC",
+          "id": 440
+        }
+      ],
+      "policy_url": "https://privacy.basis.net/"
+    },
+    {
+      "name": "Smart",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 45
+        },
+        {
+          "framework": "IAB GVL",
+          "id": 434
+        },
+        {
+          "framework": "Google AC",
+          "id": 442
+        }
+      ],
+      "policy_url": "https://smartadserver.com/end-user-privacy-policy/"
+    },
+    {
+      "name": "SMN Corporation",
+      "ids": [
+        {
+          "framework": "Google AC",
+          "id": 445
+        }
+      ],
+      "policy_url": "http://www.so-netmedia.jp/cookie/index.html"
+    },
+    {
+      "name": "Sojern",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 295
+        },
+        {
+          "framework": "Google AC",
+          "id": 449
+        }
+      ],
+      "policy_url": "https://www.sojern.com/privacy/product-privacy-policy/"
+    },
+    {
+      "name": "The Trade Desk",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 21
+        },
+        {
+          "framework": "Google AC",
+          "id": 479
+        }
+      ],
+      "policy_url": "https://www.thetradedesk.com/general/privacy-policy"
+    },
+    {
+      "name": "Exponential",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 1
+        },
+        {
+          "framework": "Google AC",
+          "id": 492
+        }
+      ],
+      "policy_url": "http://exponential.com/privacy/"
+    },
+    {
+      "name": "TrustArc",
+      "ids": [
+        {
+          "framework": "Google AC",
+          "id": 494
+        }
+      ],
+      "policy_url": "https://www.trustarc.com/privacy-policy/"
+    },
+    {
+      "name": "Weborama",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 284
+        },
+        {
+          "framework": "Google AC",
+          "id": 528
+        }
+      ],
+      "policy_url": "https://weborama.com/en/privacy-2/"
+    },
+    {
+      "name": "CyberAgent",
+      "ids": [
+        {
+          "framework": "Google AC",
+          "id": 550
+        }
+      ],
+      "policy_url": "https://privacy-policy.cyberagent.ai/index-en.html"
+    },
+    {
+      "name": "Exactag",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 312
+        },
+        {
+          "framework": "Google AC",
+          "id": 575
+        }
+      ],
+      "policy_url": "https://www.exactag.com/en/data-privacy"
+    },
+    {
+      "name": "MicroAd",
+      "ids": [
+        {
+          "framework": "Google AC",
+          "id": 576
+        }
+      ],
+      "policy_url": "https://www.microad.co.jp/privacy/"
+    },
+    {
+      "name": "Innovid",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 452
+        },
+        {
+          "framework": "Google AC",
+          "id": 588
+        }
+      ],
+      "policy_url": "http://www.innovid.com/privacy-policy"
+    },
+    {
+      "name": "LiveIntent",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 148
+        },
+        {
+          "framework": "Google AC",
+          "id": 780
+        }
+      ],
+      "policy_url": "https://liveintent.com/services-privacy-policy/"
+    },
+    {
+      "name": "AdMaxim",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 9
+        },
+        {
+          "framework": "Google AC",
+          "id": 827
+        }
+      ],
+      "policy_url": "http://www.admaxim.com/admaxim-privacy-policy/"
+    },
+    {
+      "name": "TripleLift",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 28
+        },
+        {
+          "framework": "Google AC",
+          "id": 933
+        }
+      ],
+      "policy_url": "https://triplelift.com/privacy/"
+    },
+    {
+      "name": "Celtra",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 315
+        },
+        {
+          "framework": "Google AC",
+          "id": 987
+        }
+      ],
+      "policy_url": "https://www.celtra.com/privacy-policy/"
+    },
+    {
+      "name": "AudienceProject",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 394
+        },
+        {
+          "framework": "Google AC",
+          "id": 991
+        }
+      ],
+      "policy_url": "https://privacy.audienceproject.com/"
+    },
+    {
+      "name": "Outbrain Inc.",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 164
+        },
+        {
+          "framework": "IAB GVL",
+          "id": 210
+        },
+        {
+          "framework": "Google AC",
+          "id": 1025
+        }
+      ],
+      "policy_url": "https://www.outbrain.com/legal/amplify-terms#privacy-policy"
+    },
+    {
+      "name": "PubMatic",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 76
+        },
+        {
+          "framework": "Google AC",
+          "id": 1028
+        }
+      ],
+      "policy_url": "https://pubmatic.com/legal/privacy-policy/"
+    },
+    {
+      "name": "Magnite",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 52
+        },
+        {
+          "framework": "IAB GVL",
+          "id": 165
+        },
+        {
+          "framework": "IAB GVL",
+          "id": 202
+        },
+        {
+          "framework": "Google AC",
+          "id": 1029
+        }
+      ],
+      "policy_url": "https://www.magnite.com/legal/advertising-platform-privacy-policy/"
+    },
+    {
+      "name": "Yango",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 1066
+        },
+        {
+          "framework": "Google AC",
+          "id": 1033
+        }
+      ],
+      "policy_url": "https://yandex.ru/legal/confidential/"
+    },
+    {
+      "name": "Singular Labs Inc.",
+      "ids": [
+        {
+          "framework": "Google AC",
+          "id": 1046
+        }
+      ],
+      "policy_url": "https://www.singular.net/privacy-policy/"
+    },
+    {
+      "name": "Neustar",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 468
+        },
+        {
+          "framework": "Google AC",
+          "id": 1047
+        }
+      ],
+      "policy_url": "https://www.home.neustar/privacy"
+    },
+    {
+      "name": "Affinity Global",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 488
+        },
+        {
+          "framework": "Google AC",
+          "id": 1049
+        }
+      ],
+      "policy_url": "https://www.affinity.com/privacy-policy/"
+    },
+    {
+      "name": "Netquest",
+      "ids": [
+        {
+          "framework": "Google AC",
+          "id": 1051
+        }
+      ],
+      "policy_url": "https://www.nicequest.com/us/privacy"
+    },
+    {
+      "name": "mediasmart",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 193
+        },
+        {
+          "framework": "Google AC",
+          "id": 1052
+        }
+      ],
+      "policy_url": "https://mediasmart.io/privacy/"
+    },
+    {
+      "name": "Cloudflare",
+      "ids": [
+        {
+          "framework": "Google AC",
+          "id": 1097
+        }
+      ],
+      "policy_url": "https://www.cloudflare.com/security-policy/"
+    },
+    {
+      "name": "Ask Locala (F.K.A Fusio by S4M)",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 119
+        },
+        {
+          "framework": "Google AC",
+          "id": 1100
+        }
+      ],
+      "policy_url": "https://asklocala.com/privacy-policy/"
+    },
+    {
+      "name": "Salesforce DMP",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 506
+        },
+        {
+          "framework": "Google AC",
+          "id": 1126
+        }
+      ],
+      "policy_url": "https://www.salesforce.com/company/privacy/"
+    },
+    {
+      "name": "Bridgewell",
+      "ids": [
+        {
+          "framework": "Google AC",
+          "id": 1166
+        }
+      ],
+      "policy_url": "https://www.bridgewell.com/privacy/"
+    },
+    {
+      "name": "Pixalate",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 384
+        },
+        {
+          "framework": "Google AC",
+          "id": 1171
+        }
+      ],
+      "policy_url": "http://www.pixalate.com/privacypolicy/"
+    },
+    {
+      "name": "InMobi",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 333
+        },
+        {
+          "framework": "Google AC",
+          "id": 1172
+        }
+      ],
+      "policy_url": "https://www.inmobi.com/privacy-policy-for-eea"
+    },
+    {
+      "name": "Media.net",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 142
+        },
+        {
+          "framework": "Google AC",
+          "id": 1199
+        }
+      ],
+      "policy_url": "https://www.media.net/en/privacy-policy"
+    },
+    {
+      "name": "Extreme Reach",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 1002
+        },
+        {
+          "framework": "Google AC",
+          "id": 1204
+        }
+      ],
+      "policy_url": "https://extremereach.com/privacy-policy/"
+    },
+    {
+      "name": "Kantar",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 345
+        },
+        {
+          "framework": "Google AC",
+          "id": 1236
+        }
+      ],
+      "policy_url": "https://www.kantar.com/Cookies-Policies"
+    },
+    {
+      "name": "travel audience \u2013 An Amadeus Company",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 423
+        },
+        {
+          "framework": "Google AC",
+          "id": 1241
+        }
+      ],
+      "policy_url": "https://www.amadeus-hospitality.com/privacy-policy/"
+    },
+    {
+      "name": "Adventori",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 27
+        },
+        {
+          "framework": "Google AC",
+          "id": 1248
+        }
+      ],
+      "policy_url": "https://www.adventori.com/fr/avec-nous/mentions-legales/"
+    },
+    {
+      "name": "GO.PL",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 690
+        },
+        {
+          "framework": "Google AC",
+          "id": 1298
+        }
+      ],
+      "policy_url": "https://go.pl/polityka-bezpieczenstwa-danych-osobowych/"
+    },
+    {
+      "name": "AppLovin Corp.",
+      "ids": [
+        {
+          "framework": "Google AC",
+          "id": 1301
+        }
+      ],
+      "policy_url": "https://www.applovin.com/privacy"
+    },
+    {
+      "name": "AdTheorent, Inc.",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 211
+        },
+        {
+          "framework": "Google AC",
+          "id": 1342
+        }
+      ],
+      "policy_url": "https://adtheorent.com/privacy-policy"
+    },
+    {
+      "name": "Appier",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 728
+        },
+        {
+          "framework": "Google AC",
+          "id": 1409
+        }
+      ],
+      "policy_url": "https://www.appier.com/privacy_policy/latest/privacy_policy.html"
+    },
+    {
+      "name": "Rackspace",
+      "ids": [
+        {
+          "framework": "Google AC",
+          "id": 1415
+        }
+      ],
+      "policy_url": "https://www.rackspace.com/information/legal/privacycenter"
+    },
+    {
+      "name": "Liftoff",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 667
+        },
+        {
+          "framework": "Google AC",
+          "id": 1423
+        }
+      ],
+      "policy_url": "https://liftoff.io/privacy-policy/"
+    },
+    {
+      "name": "Rockerbox",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 232
+        },
+        {
+          "framework": "Google AC",
+          "id": 1465
+        }
+      ],
+      "policy_url": "https://www.rockerbox.com/privacy-shield"
+    },
+    {
+      "name": "Sharethrough, Inc.",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 80
+        },
+        {
+          "framework": "Google AC",
+          "id": 1468
+        }
+      ],
+      "policy_url": "https://www.sharethrough.com/privacy-center/consumer-privacy-notice"
+    },
+    {
+      "name": "Localsensor",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 587
+        },
+        {
+          "framework": "Google AC",
+          "id": 1503
+        }
+      ],
+      "policy_url": "https://www.localsensor.com/privacy.html"
+    },
+    {
+      "name": "White Ops",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 431
+        },
+        {
+          "framework": "Google AC",
+          "id": 1509
+        }
+      ],
+      "policy_url": "https://www.whiteops.com/privacy"
+    },
+    {
+      "name": "Amobee",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 23
+        },
+        {
+          "framework": "Google AC",
+          "id": 1517
+        }
+      ],
+      "policy_url": "https://www.amobee.com/trust/privacy-policy/"
+    },
+    {
+      "name": "RTB House",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 16
+        },
+        {
+          "framework": "Google AC",
+          "id": 1520
+        }
+      ],
+      "policy_url": "https://www.rtbhouse.com/privacy-center/services-privacy-policy/"
+    },
+    {
+      "name": "Bannerflow",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 273
+        },
+        {
+          "framework": "Google AC",
+          "id": 1547
+        }
+      ],
+      "policy_url": "https://www.bannerflow.com/privacy"
+    },
+    {
+      "name": "Affle India",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 375
+        },
+        {
+          "framework": "Google AC",
+          "id": 1560
+        }
+      ],
+      "policy_url": "https://www.revx.io/privacy-policy"
+    },
+    {
+      "name": "Samba TV",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 351
+        },
+        {
+          "framework": "Google AC",
+          "id": 1597
+        }
+      ],
+      "policy_url": "https://samba.tv/legal/privacy-policy/"
+    },
+    {
+      "name": "Smadex",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 161
+        },
+        {
+          "framework": "Google AC",
+          "id": 1652
+        }
+      ],
+      "policy_url": "https://smadex.com/privacy-policy/"
+    },
+    {
+      "name": "Pelmorex Corp",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 976
+        },
+        {
+          "framework": "Google AC",
+          "id": 1671
+        }
+      ],
+      "policy_url": "https://www.theweathernetwork.com/privacy-policy-na"
+    },
+    {
+      "name": "Kayzen",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 528
+        },
+        {
+          "framework": "Google AC",
+          "id": 1674
+        }
+      ],
+      "policy_url": "https://kayzen.io/data-privacy-policy"
+    },
+    {
+      "name": "Placed",
+      "ids": [
+        {
+          "framework": "Google AC",
+          "id": 1725
+        }
+      ],
+      "policy_url": "https://foursquare.com/legal/privacy"
+    },
+    {
+      "name": "LoopMe",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 109
+        },
+        {
+          "framework": "Google AC",
+          "id": 1733
+        }
+      ],
+      "policy_url": "https://loopme.com/privacy/"
+    },
+    {
+      "name": "Jampp",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 527
+        },
+        {
+          "framework": "Google AC",
+          "id": 1760
+        }
+      ],
+      "policy_url": "https://www.jampp.com/privacy-policy-terms-and-conditions"
+    },
+    {
+      "name": "Aarki",
+      "ids": [
+        {
+          "framework": "Google AC",
+          "id": 1765
+        }
+      ],
+      "policy_url": "http://corp.aarki.com/privacy"
+    },
+    {
+      "name": "Remerge",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 192
+        },
+        {
+          "framework": "Google AC",
+          "id": 1791
+        }
+      ],
+      "policy_url": "http://remerge.io/privacy-policy.html"
+    },
+    {
+      "name": "LinkedIn",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 804
+        },
+        {
+          "framework": "Google AC",
+          "id": 1799
+        }
+      ],
+      "policy_url": "https://www.linkedin.com/legal/privacy-policy"
+    },
+    {
+      "name": "StackAdapt",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 238
+        },
+        {
+          "framework": "Google AC",
+          "id": 1801
+        }
+      ],
+      "policy_url": "https://www.stackadapt.com/privacy"
+    },
+    {
+      "name": "Avocet",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 63
+        },
+        {
+          "framework": "Google AC",
+          "id": 1834
+        }
+      ],
+      "policy_url": "http://avocet.io/privacy-portal"
+    },
+    {
+      "name": "Beeswax",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 12
+        },
+        {
+          "framework": "Google AC",
+          "id": 1858
+        }
+      ],
+      "policy_url": "https://www.beeswax.com/privacy.html"
+    },
+    {
+      "name": "Wizaly",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 281
+        },
+        {
+          "framework": "Google AC",
+          "id": 1872
+        }
+      ],
+      "policy_url": "https://www.wizaly.com/terms-of-use#privacy-policy"
+    },
+    {
+      "name": "Clinch",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 767
+        },
+        {
+          "framework": "Google AC",
+          "id": 1896
+        }
+      ],
+      "policy_url": "https://clinch.co/pages/privacy.html"
+    },
+    {
+      "name": "Lucid",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 508
+        },
+        {
+          "framework": "Google AC",
+          "id": 1905
+        }
+      ],
+      "policy_url": "https://luc.id/gdpr"
+    },
+    {
+      "name": "Moloco Ads",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 807
+        },
+        {
+          "framework": "Google AC",
+          "id": 1922
+        }
+      ],
+      "policy_url": "https://www.moloco.com/advertising-policy"
+    },
+    {
+      "name": "NinthDecimal",
+      "ids": [
+        {
+          "framework": "Google AC",
+          "id": 1942
+        }
+      ],
+      "policy_url": "https://www.ninthdecimal.com/privacy/"
+    },
+    {
+      "name": "TreSensa",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 88
+        },
+        {
+          "framework": "Google AC",
+          "id": 1958
+        }
+      ],
+      "policy_url": "http://tresensa.com/eu-privacy/index.html"
+    },
+    {
+      "name": "Bigabid",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 218
+        },
+        {
+          "framework": "Google AC",
+          "id": 1987
+        }
+      ],
+      "policy_url": "https://www.bigabid.com/Legal/"
+    },
+    {
+      "name": "UnrulyX",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 36
+        },
+        {
+          "framework": "Google AC",
+          "id": 2059
+        }
+      ],
+      "policy_url": "https://nexxen.com/privacy-policy/"
+    },
+    {
+      "name": "Optimize LCC D.B.A Genius Monkey",
+      "ids": [
+        {
+          "framework": "Google AC",
+          "id": 2068
+        }
+      ],
+      "policy_url": "https://geniusmonkey.com/privacy/"
+    },
+    {
+      "name": "gskinner",
+      "ids": [
+        {
+          "framework": "Google AC",
+          "id": 2072
+        }
+      ],
+      "policy_url": "https://createjs.com/legal/privacy.html"
+    },
+    {
+      "name": "Yahoo! Japan",
+      "ids": [
+        {
+          "framework": "Google AC",
+          "id": 2074
+        }
+      ],
+      "policy_url": "http://docs.yahoo.co.jp/docs/info/terms/chapter1.html"
+    },
+    {
+      "name": "TEEMO",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 124
+        },
+        {
+          "framework": "Google AC",
+          "id": 2078
+        }
+      ],
+      "policy_url": "https://teemo.co/fr/confidentialite/"
+    },
+    {
+      "name": "OTTO",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 559
+        },
+        {
+          "framework": "Google AC",
+          "id": 2079
+        }
+      ],
+      "policy_url": "https://www.otto.de/shoppages/service/datenschutz"
+    },
+    {
+      "name": "Chalk Digital",
+      "ids": [
+        {
+          "framework": "Google AC",
+          "id": 2107
+        }
+      ],
+      "policy_url": "https://www.chalkdigital.com/index.php/privacy-policy-2/"
+    },
+    {
+      "name": "Neural.ONE",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 37
+        },
+        {
+          "framework": "Google AC",
+          "id": 2121
+        }
+      ],
+      "policy_url": "https://web.neural.one/privacy-policy/"
+    },
+    {
+      "name": "AdKernel",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 14
+        },
+        {
+          "framework": "Google AC",
+          "id": 2176
+        }
+      ],
+      "policy_url": "https://adkernel.com/privacy-policy/"
+    },
+    {
+      "name": "Adelaide Metrics Inc",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 1019
+        },
+        {
+          "framework": "Google AC",
+          "id": 2179
+        }
+      ],
+      "policy_url": "https://adelaidemetrics.com/privacy"
+    },
+    {
+      "name": "jsdelivr",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 1259
+        },
+        {
+          "framework": "Google AC",
+          "id": 2213
+        }
+      ],
+      "policy_url": "https://www.jsdelivr.com/terms/privacy-policy-jsdelivr-net"
+    },
+    {
+      "name": "HockeyCurve",
+      "ids": [
+        {
+          "framework": "Google AC",
+          "id": 2219
+        }
+      ],
+      "policy_url": "https://hockeycurve.com/optout.html"
+    },
+    {
+      "name": "Upwave",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 714
+        },
+        {
+          "framework": "Google AC",
+          "id": 2223
+        }
+      ],
+      "policy_url": "https://www.upwave.com/privacy-policy/"
+    },
+    {
+      "name": "IQM",
+      "ids": [
+        {
+          "framework": "Google AC",
+          "id": 2224
+        }
+      ],
+      "policy_url": "https://iqm.com/privacy-policy"
+    },
+    {
+      "name": "Cheq",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 572
+        },
+        {
+          "framework": "Google AC",
+          "id": 2264
+        }
+      ],
+      "policy_url": "https://www.cheq.ai/privacy"
+    },
+    {
+      "name": "On Device Research",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 304
+        },
+        {
+          "framework": "Google AC",
+          "id": 2290
+        }
+      ],
+      "policy_url": "https://ondeviceresearch.com/privacyPolicy?__hstc=18682086.bbfc177521fd5d31dab1d0445f7c88e0.1755110295521.1755110295521.1755110295521.1&__hssc=18682086.2.1755110295521&__hsfp=3233162138"
+    },
+    {
+      "name": "Sift Media",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 59
+        },
+        {
+          "framework": "Google AC",
+          "id": 2311
+        }
+      ],
+      "policy_url": "https://www.sift.co/privacy"
+    },
+    {
+      "name": "DeepIntent",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 541
+        },
+        {
+          "framework": "Google AC",
+          "id": 2320
+        }
+      ],
+      "policy_url": "https://www.deepintent.com/platformprivacypolicy"
+    },
+    {
+      "name": "fluct",
+      "ids": [
+        {
+          "framework": "Google AC",
+          "id": 2328
+        }
+      ],
+      "policy_url": "https://corp.fluct.jp/privacy/"
+    },
+    {
+      "name": "Zucks",
+      "ids": [
+        {
+          "framework": "Google AC",
+          "id": 2331
+        }
+      ],
+      "policy_url": "http://zucks.co.jp/en/privacy/"
+    },
+    {
+      "name": "TabMo",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 275
+        },
+        {
+          "framework": "Google AC",
+          "id": 2346
+        }
+      ],
+      "policy_url": "https://improvedigital.com/platform-privacy-policy"
+    },
+    {
+      "name": "Smartology",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 246
+        },
+        {
+          "framework": "Google AC",
+          "id": 2382
+        }
+      ],
+      "policy_url": "https://www.smartology.net/privacy-policy/"
+    },
+    {
+      "name": "Digital Turbine Media, Inc",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 387
+        },
+        {
+          "framework": "Google AC",
+          "id": 2386
+        }
+      ],
+      "policy_url": "https://www.digitalturbine.com/privacy-policy/"
+    },
+    {
+      "name": "Bidease",
+      "ids": [
+        {
+          "framework": "Google AC",
+          "id": 2387
+        }
+      ],
+      "policy_url": "https://bidease.com/terms-of-use"
+    },
+    {
+      "name": "Madington",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 486
+        },
+        {
+          "framework": "Google AC",
+          "id": 2413
+        }
+      ],
+      "policy_url": "https://delivered-by-madington.com/dat-privacy-policy/"
+    },
+    {
+      "name": "UNICORN",
+      "ids": [
+        {
+          "framework": "Google AC",
+          "id": 2416
+        }
+      ],
+      "policy_url": "https://uncn.jp/cup?lan=en"
+    },
+    {
+      "name": "OneTag",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 241
+        },
+        {
+          "framework": "Google AC",
+          "id": 2437
+        }
+      ],
+      "policy_url": "https://www.onetag.net/privacy/"
+    },
+    {
+      "name": "Adikteev",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 15
+        },
+        {
+          "framework": "Google AC",
+          "id": 2441
+        }
+      ],
+      "policy_url": "https://www.adikteev.com/eu/privacy/"
+    },
+    {
+      "name": "AdFalcon",
+      "ids": [
+        {
+          "framework": "Google AC",
+          "id": 2501
+        }
+      ],
+      "policy_url": "http://www.adfalcon.com/en/tech-policy.html"
+    },
+    {
+      "name": "Mobvista/Mintegral",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 867
+        },
+        {
+          "framework": "Google AC",
+          "id": 2555
+        }
+      ],
+      "policy_url": "https://www.mintegral.com/en/privacy"
+    },
+    {
+      "name": "Supership",
+      "ids": [
+        {
+          "framework": "Google AC",
+          "id": 2567
+        }
+      ],
+      "policy_url": "https://supership.jp/optout/"
+    },
+    {
+      "name": "Marketing Science Consulting Group, Inc.",
+      "ids": [
+        {
+          "framework": "Google AC",
+          "id": 2568
+        }
+      ],
+      "policy_url": "http://mktsci.com/privacy_policy.htm"
+    },
+    {
+      "name": "Kobler",
+      "ids": [
+        {
+          "framework": "Google AC",
+          "id": 2575
+        }
+      ],
+      "policy_url": "https://kobler.no/privacy-policy"
+    },
+    {
+      "name": "Seenthis",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 415
+        },
+        {
+          "framework": "Google AC",
+          "id": 2649
+        }
+      ],
+      "policy_url": "https://seenthis.co/privacypolicy/"
+    },
+    {
+      "name": "Adstra",
+      "ids": [
+        {
+          "framework": "Google AC",
+          "id": 2657
+        }
+      ],
+      "policy_url": "https://www.alc.com/privacy-policy/"
+    },
+    {
+      "name": "Bombora",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 163
+        },
+        {
+          "framework": "Google AC",
+          "id": 2663
+        }
+      ],
+      "policy_url": "http://bombora.com/privacy"
+    },
+    {
+      "name": "Persona.ly",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 1010
+        },
+        {
+          "framework": "Google AC",
+          "id": 2686
+        }
+      ],
+      "policy_url": "http://persona.ly/privacy_policy"
+    },
+    {
+      "name": "Somplo",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 1005
+        },
+        {
+          "framework": "Google AC",
+          "id": 2691
+        }
+      ],
+      "policy_url": "http://somplo.com/privacy-policy/"
+    },
+    {
+      "name": "Blue",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 620
+        },
+        {
+          "framework": "Google AC",
+          "id": 2699
+        }
+      ],
+      "policy_url": "https://getblue.io/privacy/"
+    },
+    {
+      "name": "Adnami ApS",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 612
+        },
+        {
+          "framework": "Google AC",
+          "id": 2702
+        }
+      ],
+      "policy_url": "https://adnami.io/privacy-policy.html"
+    },
+    {
+      "name": "Sovrn",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 13
+        },
+        {
+          "framework": "Google AC",
+          "id": 2706
+        }
+      ],
+      "policy_url": "https://www.sovrn.com/privacy-policy/privacy-policy"
+    },
+    {
+      "name": "Smaato",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 82
+        },
+        {
+          "framework": "Google AC",
+          "id": 2709
+        }
+      ],
+      "policy_url": "https://www.smaato.com/privacy/"
+    },
+    {
+      "name": "YieldMo",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 173
+        },
+        {
+          "framework": "Google AC",
+          "id": 2758
+        }
+      ],
+      "policy_url": "https://www.yieldmo.com/privacy/"
+    },
+    {
+      "name": "Virtual Minds",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 39
+        },
+        {
+          "framework": "IAB GVL",
+          "id": 40
+        },
+        {
+          "framework": "IAB GVL",
+          "id": 70
+        },
+        {
+          "framework": "Google AC",
+          "id": 2776
+        }
+      ],
+      "policy_url": "https://virtualminds.de/datenschutz/"
+    },
+    {
+      "name": "Yahoo",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 25
+        },
+        {
+          "framework": "Google AC",
+          "id": 2777
+        }
+      ],
+      "policy_url": "https://legal.yahoo.com/ie/en/yahoo/privacy/index.html"
+    },
+    {
+      "name": "Oracle Data Cloud",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 385
+        },
+        {
+          "framework": "IAB GVL",
+          "id": 772
+        },
+        {
+          "framework": "Google AC",
+          "id": 2778
+        }
+      ],
+      "policy_url": "https://www.oracle.com/legal/privacy/marketing-cloud-data-cloud-privacy-policy.html"
+    },
+    {
+      "name": "GroupM",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 98
+        },
+        {
+          "framework": "IAB GVL",
+          "id": 177
+        },
+        {
+          "framework": "Google AC",
+          "id": 2779
+        }
+      ],
+      "policy_url": "https://www.greenhousegroup.com/nl/privacy-statement"
+    },
+    {
+      "name": "Seedtag",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 157
+        },
+        {
+          "framework": "Google AC",
+          "id": 2810
+        }
+      ],
+      "policy_url": "https://www.seedtag.com/cookies-policy/"
+    },
+    {
+      "name": "A Million Ads Limited",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 174
+        },
+        {
+          "framework": "Google AC",
+          "id": 2858
+        }
+      ],
+      "policy_url": "https://www.amillionads.com/privacy-policy"
+    },
+    {
+      "name": "PLAYGROUND XYZ",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 490
+        },
+        {
+          "framework": "Google AC",
+          "id": 2868
+        }
+      ],
+      "policy_url": "https://playground.xyz/privacy/privacy-policy.pdf"
+    },
+    {
+      "name": "Throtle",
+      "ids": [
+        {
+          "framework": "Google AC",
+          "id": 2869
+        }
+      ],
+      "policy_url": "https://throtle.io/privacy/"
+    },
+    {
+      "name": "ironSource Mobile",
+      "ids": [
+        {
+          "framework": "Google AC",
+          "id": 2878
+        }
+      ],
+      "policy_url": "https://developers.ironsrc.com/ironsource-mobile/air/ironsource-mobile-privacy-policy"
+    },
+    {
+      "name": "MediaPal",
+      "ids": [
+        {
+          "framework": "Google AC",
+          "id": 2908
+        }
+      ],
+      "policy_url": "http://mediapal.net/gdpr-compliance"
+    },
+    {
+      "name": "Tuky Data",
+      "ids": [
+        {
+          "framework": "Google AC",
+          "id": 2920
+        }
+      ],
+      "policy_url": "https://tuky.net/privacy.html"
+    },
+    {
+      "name": "Connected-Stories",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 699
+        },
+        {
+          "framework": "Google AC",
+          "id": 2926
+        }
+      ],
+      "policy_url": "https://www.connected-stories.com/privacy"
+    },
+    {
+      "name": "Sonobi, Inc",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 104
+        },
+        {
+          "framework": "Google AC",
+          "id": 2928
+        }
+      ],
+      "policy_url": "https://sonobi.com/privacy-policy"
+    },
+    {
+      "name": "6Sense Insights, Inc",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 740
+        },
+        {
+          "framework": "Google AC",
+          "id": 2953
+        }
+      ],
+      "policy_url": "https://6sense.com/privacy-policy"
+    },
+    {
+      "name": "CONTXTFUL",
+      "ids": [
+        {
+          "framework": "Google AC",
+          "id": 2963
+        }
+      ],
+      "policy_url": "https://www.contxtful.com/Privacy/"
+    },
+    {
+      "name": "MarketCast LLC",
+      "ids": [
+        {
+          "framework": "Google AC",
+          "id": 3005
+        }
+      ],
+      "policy_url": "https://marketcast.com/privacy-policy/"
+    },
+    {
+      "name": "Read Peak",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 290
+        },
+        {
+          "framework": "Google AC",
+          "id": 3014
+        }
+      ],
+      "policy_url": "https://www.readpeak.com/terms/readpeak-privacy-policy"
+    },
+    {
+      "name": "Polar",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 297
+        },
+        {
+          "framework": "Google AC",
+          "id": 3015
+        }
+      ],
+      "policy_url": "https://privacy.polar.me/"
+    },
+    {
+      "name": "LeadsRx",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 843
+        },
+        {
+          "framework": "Google AC",
+          "id": 3023
+        }
+      ],
+      "policy_url": "https://leadsrx.com/gdpr"
+    },
+    {
+      "name": "Zeta Global",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 469
+        },
+        {
+          "framework": "Google AC",
+          "id": 3033
+        }
+      ],
+      "policy_url": "https://zetaglobal.com/privacy-policy/"
+    },
+    {
+      "name": "Arpeely",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 1067
+        },
+        {
+          "framework": "Google AC",
+          "id": 3044
+        }
+      ],
+      "policy_url": "https://arpeely.com/yourprivacy"
+    },
+    {
+      "name": "YouAppi",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 1342
+        },
+        {
+          "framework": "Google AC",
+          "id": 3048
+        }
+      ],
+      "policy_url": "http://youappi.com/privacy-policy"
+    },
+    {
+      "name": "Pangle DSP",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 986
+        },
+        {
+          "framework": "Google AC",
+          "id": 3100
+        }
+      ],
+      "policy_url": "https://www.pangleglobal.com/privacy"
+    },
+    {
+      "name": "Ad360",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 1071
+        },
+        {
+          "framework": "Google AC",
+          "id": 3111
+        }
+      ],
+      "policy_url": "https://www.ad360.media/privacy.html"
+    },
+    {
+      "name": "MOBSUCCESS",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 663
+        },
+        {
+          "framework": "Google AC",
+          "id": 3115
+        }
+      ],
+      "policy_url": "https://www.mobsuccess.com/en/privacy"
+    },
+    {
+      "name": "clean.io",
+      "ids": [
+        {
+          "framework": "Google AC",
+          "id": 3126
+        }
+      ],
+      "policy_url": "https://clean.io/privacy-policy/"
+    },
+    {
+      "name": "Preciso",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 874
+        },
+        {
+          "framework": "Google AC",
+          "id": 3197
+        }
+      ],
+      "policy_url": "https://preciso.net/privacy/"
+    },
+    {
+      "name": "Intango Ltd.",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 0
+        },
+        {
+          "framework": "Google AC",
+          "id": 3219
+        }
+      ],
+      "policy_url": "https://8proof.com/privacy.html"
+    },
+    {
+      "name": "Unity Ads",
+      "ids": [
+        {
+          "framework": "Google AC",
+          "id": 3234
+        }
+      ],
+      "policy_url": "https://unity.com/legal/privacy-policy"
+    },
+    {
+      "name": "Loblaw Media",
+      "ids": [
+        {
+          "framework": "Google AC",
+          "id": 3235
+        }
+      ],
+      "policy_url": "https://www.loblaw.ca/en/privacy-policy/"
+    },
+    {
+      "name": "Ad Lightning",
+      "ids": [
+        {
+          "framework": "Google AC",
+          "id": 3253
+        }
+      ],
+      "policy_url": "https://www.adlightning.com/privacy"
+    },
+    {
+      "name": "AdTiming",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 326
+        },
+        {
+          "framework": "Google AC",
+          "id": 3304
+        }
+      ],
+      "policy_url": "https://www.adtiming.com/privacy-policy.php"
+    },
+    {
+      "name": "Lacuna",
+      "ids": [
+        {
+          "framework": "Google AC",
+          "id": 3309
+        }
+      ],
+      "policy_url": "https://lacunads.ushareit.com/policy.html"
+    },
+    {
+      "name": "xpln.ai",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 1142
+        },
+        {
+          "framework": "Google AC",
+          "id": 3320
+        }
+      ],
+      "policy_url": "https://xpln.ai/privacy"
+    },
+    {
+      "name": "MediaGo",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 1020
+        },
+        {
+          "framework": "Google AC",
+          "id": 3322
+        }
+      ],
+      "policy_url": "https://www.mediago.io/policy/"
+    },
+    {
+      "name": "Opera Software Ireland Ltd",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 1135
+        },
+        {
+          "framework": "Google AC",
+          "id": 3327
+        }
+      ],
+      "policy_url": "https://legal.opera.com/privacy/"
+    },
+    {
+      "name": "Coupang",
+      "ids": [
+        {
+          "framework": "Google AC",
+          "id": 3731
+        }
+      ],
+      "policy_url": "https://www.coupang.com/np/policies/privacy"
+    },
+    {
+      "name": "Happydemics",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 550
+        },
+        {
+          "framework": "Google AC",
+          "id": 5331
+        }
+      ],
+      "policy_url": "https://happydemics.com/en/privacy-policy"
+    },
+    {
+      "name": "Playable Factory",
+      "ids": [
+        {
+          "framework": "Google AC",
+          "id": 6931
+        }
+      ],
+      "policy_url": "https://playablefactory.com/privacy-policy/"
+    },
+    {
+      "name": "Prism Partner",
+      "ids": [
+        {
+          "framework": "Google AC",
+          "id": 8931
+        }
+      ],
+      "policy_url": "https://www.prismpartner.co.jp/privacy/"
+    },
+    {
+      "name": "TemuDSP",
+      "ids": [
+        {
+          "framework": "Google AC",
+          "id": 13731
+        }
+      ],
+      "policy_url": "https://www.temu.com/privacy-and-cookie-policy.html"
+    },
+    {
+      "name": "DISQO",
+      "ids": [
+        {
+          "framework": "Google AC",
+          "id": 15731
+        }
+      ],
+      "policy_url": "https://www.disqo.com/privacy-policy/"
+    },
+    {
+      "name": "ABCS INSIGHTS",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 1271
+        },
+        {
+          "framework": "Google AC",
+          "id": 32731
+        }
+      ],
+      "policy_url": "https://www.abcsinsights.com/privacy/ad-measurement"
+    },
+    {
+      "name": "ADMASTER PRIVATE LIMITED",
+      "ids": [
+        {
+          "framework": "IAB GVL",
+          "id": 1386
+        },
+        {
+          "framework": "Google AC",
+          "id": 33531
+        }
+      ],
+      "policy_url": "https://www.admaster.cc/privacy"
+    },
+    {
+      "name": "Mercado Livre",
+      "ids": [
+        {
+          "framework": "Google AC",
+          "id": 33931
+        }
+      ],
+      "policy_url": "https://www.mercadolibre.com.ar/privacidad/resumen"
+    }
+  ]
+}
