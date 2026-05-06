@@ -1439,7 +1439,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.tagcommander.lib;
+				PRODUCT_BUNDLE_IDENTIFIER = com.tagcommander.lib.tcdemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "TC_USE_FIREBASE TC_USE_CONSENT TC_USE_SERVER_SIDE";
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -1474,7 +1474,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.tagcommander.lib;
+				PRODUCT_BUNDLE_IDENTIFIER = com.tagcommander.lib.tcdemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "TC_USE_FIREBASE TC_USE_CONSENT TC_USE_SERVER_SIDE";
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -1676,7 +1676,7 @@
 			repositoryURL = "https://github.com/firebase/firebase-ios-sdk.git";
 			requirement = {
 				kind = upToNextMajorVersion;
-				minimumVersion = 11.14.0;
+				minimumVersion = 12.13.0;
 			};
 		};
 		EB4C32342E9D49410015D10E /* XCRemoteSwiftPackageReference "lottie-ios" */ = {
@@ -1716,7 +1716,7 @@
 			repositoryURL = "https://github.com/commandersact/iosv5";
 			requirement = {
 				kind = upToNextMajorVersion;
-				minimumVersion = 5.4.17;
+				minimumVersion = 5.4.19;
 			};
 		};
 /* End XCRemoteSwiftPackageReference section */

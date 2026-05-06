@@ -1,12 +1,22 @@
 {
     "information": {
         "update": "2021-08-01",
-        "version": "23",
+        "version": "24",
         "vendors": "647,648,1229",
         "google_vendors" : "323,389,385,424",
         "consentDurationInMonths": 6,
         "significantChanges": "",
         "resetSave": ""
+    },
+    "google_consent_mode": {
+        "use_consent_mode": true,
+        "infer_ad_from_tcf": false,
+        "category_mapping": {
+            "ad_storage": 1,
+            "ad_user_data": 2,
+            "ad_personalization": 3,
+            "analytics_storage": 4
+        }
     },
     "components": {
         "firstLayerButton": ["RefuseAll", "Detail", "AcceptAll"],
@@ -149,6 +159,18 @@
             "name": "Advertising",
             "ID": "2",
             "related_vendors": [2],
+            "description": "These cookies allow us display adverts matching your interests on the websites you visit."
+        },
+        {
+            "name": "Targeting",
+            "ID": "3",
+            "related_vendors": [1,2],
+            "description": "These cookies allow us display adverts matching your interests on the websites you visit."
+        },
+        {
+            "name": "Activation",
+            "ID": "4",
+            "related_vendors": [1,2],
             "description": "These cookies allow us display adverts matching your interests on the websites you visit."
         },
         {

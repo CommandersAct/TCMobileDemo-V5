@@ -20,14 +20,14 @@ struct TCServerSideImplementation {
             tc = ServerSide(
                 siteID: siteID,
                 andSourceKey: sourceKey,
-                andDefaultBehaviour: PB_ALWAYS_ENABLED,
+                andDefaultBehaviour: PB_DEFAULT_BEHAVIOUR,
                 andFirebaseInstance: firebaseInstance
             )
         } else {
             tc = ServerSide(            // classic initialisation otherwise
                 siteID: siteID,
                 andSourceKey: sourceKey,
-                andDefaultBehaviour: PB_ALWAYS_ENABLED
+                andDefaultBehaviour: PB_DEFAULT_BEHAVIOUR
             )
         }
         #else
