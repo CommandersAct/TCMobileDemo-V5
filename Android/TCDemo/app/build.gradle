@@ -1,6 +1,7 @@
 plugins {
     id 'com.android.application'
     id 'org.jetbrains.kotlin.android'
+    id 'com.google.gms.google-services'
 }
 
 android {
@@ -88,22 +89,22 @@ android {
 
 dependencies {
     //Commanders Act SDK dependencies
-    implementation 'com.tagcommander.lib:core:5.4.8'
+    implementation 'com.tagcommander.lib:core:5.4.9'
 
     NoIABImplementation 'com.tagcommander.lib:ServerSide:5.5.8'
     NoIABImplementation 'com.tagcommander.lib:Consent:5.3.10'
 
     IABImplementation 'com.tagcommander.lib:ServerSide:5.5.8'
     IABImplementation 'com.tagcommander.lib:Consent:5.3.10'
-    IABImplementation 'com.tagcommander.lib:TCIAB:5.1.0'
+    IABImplementation 'com.tagcommander.lib:TCIAB:5.1.1'
 
     IAB_FirebaseImplementation  'com.tagcommander.lib:ServerSide:5.5.8'
     IAB_FirebaseImplementation  'com.tagcommander.lib:Consent:5.3.10'
-    IAB_FirebaseImplementation  'com.tagcommander.lib:TCIAB:5.1.0'
-    IAB_FirebaseImplementation  'com.tagcommander.lib:FirebaseDestination:5.1.2'
+    IAB_FirebaseImplementation  'com.tagcommander.lib:TCIAB:5.1.1'
+    IAB_FirebaseImplementation 'com.tagcommander.lib:FirebaseDestination:5.1.4'
 
     Consent_OnlyImplementation 'com.tagcommander.lib:Consent:5.3.10'
-    Consent_OnlyImplementation 'com.tagcommander.lib:TCIAB:5.1.0'
+    Consent_OnlyImplementation 'com.tagcommander.lib:TCIAB:5.1.1'
 
     ServerSide_OnlyImplementation'com.tagcommander.lib:ServerSide:5.5.8'
 

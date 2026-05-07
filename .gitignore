@@ -4,6 +4,7 @@
 iOS/ConsentOnly/DerivedData
 iOS/ServerSide_And_Consent/DerivedData
 iOS/ServerSideOnly/DerivedData
+iOS/TCDemo.xcodeproj/project.xcworkspace/xcuserdata/
 
 iOS/ConsentOnly/TCDemo.xcodeproj/project.xcworkspace/xcuserdata/
 iOS/ConsentOnly/TCDemo.xcodeproj/xcuserdata/
@@ -16,3 +17,5 @@ iOS/ServerSide_And_Consent/TCDemo.xcodeproj/xcuserdata/
 
 iOS/Build/
 iOS/TCDemo.xcodeproj/xcuserdata/
+
+Android/TCDemo/.idea/

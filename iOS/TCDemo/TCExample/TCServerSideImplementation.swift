@@ -39,7 +39,7 @@ struct TCServerSideImplementation {
     static func sendPageViewEvent(pageName: String, pageType: String) {
         let event = TCPageViewEvent(type: pageType)
         event?.pageName = pageName
-        event?.addAdditionalProperty("test_code", withStringValue: "test_code")
+        event?.addAdditionalProperty("demo_commanders_firebase", withStringValue: "demo_value")
         tc?.execute(event)
     }
 
