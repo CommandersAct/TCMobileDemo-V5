@@ -155,6 +155,18 @@
             "related_vendors": [2],
             "description": "These cookies allow us display adverts matching your interests on the websites you visit."
         },
+      {
+        "name": "Targeting",
+        "ID": "3",
+        "related_vendors": [2],
+        "description": "Pour afficher de superbes pubs personalisées"
+      },
+      {
+        "name": "Publishing",
+        "ID": "2",
+        "related_vendors": [2],
+        "description": "Pour afficher de superbes pubs personalisées"
+      },
         {
             "name": "Big category",
             "ID": "30",
@@ -203,6 +215,18 @@
             "related_vendors": [2],
             "description": "Pour afficher de superbes pubs personalisées"
         },
+      {
+        "name": "Targeting",
+        "ID": "3",
+        "related_vendors": [2],
+        "description": "Pour afficher de superbes pubs personalisées"
+      },
+      {
+        "name": "Publishing",
+        "ID": "2",
+        "related_vendors": [2],
+        "description": "Pour afficher de superbes pubs personalisées"
+      },
         {
             "name": "Super cat",
             "ID": "30",
